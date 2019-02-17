@@ -4,6 +4,14 @@
     margin-right: 42%;
     background: aquamarine;
 }
+@media screen and (min-width: 340px) {
+    #game{
+        margin-left: 35%;
+        margin-top: 11%;
+        margin-right: 33%;
+        background: aquamarine;
+    }
+}
 .parentTop{
     display: flex;
     align-items: center;
